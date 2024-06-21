@@ -1,1 +1,5 @@
+### Data files and column descriptions:
 
+CommonGarden_Data_With_ENV.csv --> CSV file containing quantitative trait measurements and envrionmental data from WorldClim2 dataset of 1,438 Q.rubra acorns from 102 maternal lines from eight populations. These acorns were planted in a randomized block design with four blocks, with populations and maternal lines distributed as evenly as possible across the blocks, under a maximum temperature setting of 20°C, a minimum temperature setting of 11.6°C and watered every 48hrs at the University of Minnesota Duluth greenhouse (46°49’00.7” N 92°05’12.1” W).
+
+Column description:
