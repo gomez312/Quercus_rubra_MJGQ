@@ -2,7 +2,7 @@
 
 1. Geospatial_data_Oak_project.csv --> This dataset contains the geospatial location of each of the 33 populations that were collected. All of the samples are within the state of Minnesota. In the dataset each entry refers to one population. 
 
-2. Sequencing_Individual_Information.csv --> This data is the sample information for the individuals in the `Quercus_rubra_MJGQ/VCF?` directory and on the Raw sequencing data in the DRUM repositor (https://doi.org/10.13020/dqet-h494). 
+2. Sequencing_Individual_Information.csv --> This data is the sample information for the individuals in the `Quercus_rubra_MJGQ/VCF/` directory and on the Raw sequencing data in the DRUM repositor (https://doi.org/10.13020/dqet-h494). 
 
 
 ### column descriptions:
