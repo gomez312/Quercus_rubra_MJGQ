@@ -1,6 +1,6 @@
 ### Data files and column descriptions:
 
-ENV_2024_SNPs_relaxed.csv --> CSV file containing standardized envrionmental data from the WorldClim2 dataset in 2019.
+`ENV_2024_SNPs_relaxed.csv` --> CSV file containing standardized envrionmental data from the WorldClim2 dataset in 2019.
 Datasheet contains has the 19 bioclimatic variables for 312 *Q.rubra* sequenced individuals and used for LFMM, RDA and BayeSEnv analyses.
 
 #### column descriptions:
