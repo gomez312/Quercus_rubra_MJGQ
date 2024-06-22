@@ -1,4 +1,4 @@
-## README.md
+## Dataset Description
 
 Files consist of two datasets:
 
@@ -7,6 +7,5 @@ Files consist of two datasets:
 **Dataset 2:** field and common garden collected *Q. rubra* (coastal, inland, and interior regions) individuals. 
 
 For a detailed description of each collection site and individuals please refer to directory:
-
-`./Quercus_rubra_MJGQ/Metadata/Collections.csv`
+`./Quercus_rubra_MJGQ/Metadata/`
 
