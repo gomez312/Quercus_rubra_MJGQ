@@ -16,4 +16,10 @@ The files contain:
 4. Common garden trait measumeremnts,
 5. Environmental variables for each population
 
+
+Raw data can also be found on the Data Repository for the University of Minnesota (DRUM):
+
+Gomez Quijano, Maria Jose; Gross, Briana, L.; Etterson, Julie, R.. (2020). Why do coastal seeds fail? Evidence of local adaptation of northern red oak ( Quercus rubra ) in Minnesota coastal forests - Genomics and Geospatial Data. Retrieved from the University Digital Conservancy, (https://doi.org/10.13020/dqet-h494).
+
+
 This data share was prepared by Maria Jose Gomez Quijano, Briana L. Gross and Julie R. Etterson using Federal funds under award NA17NOS4190062 from the Coastal Zone Management Act of 1972, as amended, administered by the Office for Coastal Management, National Oceanic and Atmospheric Administration (NOAA), U.S. Department of Commerce provided to the Minnesota Department of Natural Resources (DNR) for Minnesota's Lake Superior Coastal Program. The statements, findings, conclusions, and recommendations are those of the author(s) and do not necessarily reflect the views of NOAA's Office of Coastal Management, the U.S. Department of Commerce, or the Minnesota DNR.
