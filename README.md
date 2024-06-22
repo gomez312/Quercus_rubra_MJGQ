@@ -17,7 +17,7 @@ The files contain:
 5. Environmental variables for each population
 
 
-Raw data can also be found on the Data Repository for the University of Minnesota (DRUM):
+#### Raw data can also be found on the Data Repository for the University of Minnesota (DRUM):
 
 Gomez Quijano, Maria Jose; Gross, Briana, L.; Etterson, Julie, R.. (2020). Why do coastal seeds fail? Evidence of local adaptation of northern red oak ( Quercus rubra ) in Minnesota coastal forests - Genomics and Geospatial Data. Retrieved from the University Digital Conservancy, (https://doi.org/10.13020/dqet-h494).
 
